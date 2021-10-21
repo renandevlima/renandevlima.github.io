@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a112a88e.chunk.css",
-    "main.js": "/static/js/main.593e20c2.chunk.js",
-    "main.js.map": "/static/js/main.593e20c2.chunk.js.map",
+    "main.css": "/static/css/main.a2a66f35.chunk.css",
+    "main.js": "/static/js/main.ab12e4e6.chunk.js",
+    "main.js.map": "/static/js/main.ab12e4e6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.879e8398.js",
     "runtime-main.js.map": "/static/js/runtime-main.879e8398.js.map",
-    "static/css/2.0c6d2c39.chunk.css": "/static/css/2.0c6d2c39.chunk.css",
+    "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
     "static/js/2.41945a97.chunk.js": "/static/js/2.41945a97.chunk.js",
     "static/js/2.41945a97.chunk.js.map": "/static/js/2.41945a97.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.0c6d2c39.chunk.css.map": "/static/css/2.0c6d2c39.chunk.css.map",
-    "static/css/main.a112a88e.chunk.css.map": "/static/css/main.a112a88e.chunk.css.map",
+    "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
+    "static/css/main.a2a66f35.chunk.css.map": "/static/css/main.a2a66f35.chunk.css.map",
     "static/js/2.41945a97.chunk.js.LICENSE.txt": "/static/js/2.41945a97.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Roboto-Regular.a8d6ac03.ttf",
     "static/media/avatar.8d771c6f.svg": "/static/media/avatar.8d771c6f.svg",
     "static/media/bravo.a92fc645.png": "/static/media/bravo.a92fc645.png",
     "static/media/citygreen.a5931bce.png": "/static/media/citygreen.a5931bce.png",
     "static/media/contato.b0df34ae.png": "/static/media/contato.b0df34ae.png",
-    "static/media/curriculo-renan-lima-eng.ee7fb12d.docx": "/static/media/curriculo-renan-lima-eng.ee7fb12d.docx",
-    "static/media/curriculo-renan-lima.932178bf.docx": "/static/media/curriculo-renan-lima.932178bf.docx",
+    "static/media/curriculo-renan-lima-eng.f0cdc3fa.docx": "/static/media/curriculo-renan-lima-eng.f0cdc3fa.docx",
+    "static/media/curriculo-renan-lima.3815c70c.docx": "/static/media/curriculo-renan-lima.3815c70c.docx",
     "static/media/dozeroaosenior.6e60a24c.png": "/static/media/dozeroaosenior.6e60a24c.png",
     "static/media/grupo-era.e1859656.png": "/static/media/grupo-era.e1859656.png",
     "static/media/jdr.1fbe021a.png": "/static/media/jdr.1fbe021a.png",
@@ -34,9 +34,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.879e8398.js",
-    "static/css/2.0c6d2c39.chunk.css",
+    "static/css/2.19627560.chunk.css",
     "static/js/2.41945a97.chunk.js",
-    "static/css/main.a112a88e.chunk.css",
-    "static/js/main.593e20c2.chunk.js"
+    "static/css/main.a2a66f35.chunk.css",
+    "static/js/main.ab12e4e6.chunk.js"
   ]
 }
