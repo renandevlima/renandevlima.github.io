@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2a66f35.chunk.css",
-    "main.js": "/static/js/main.fd535eb9.chunk.js",
-    "main.js.map": "/static/js/main.fd535eb9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.879e8398.js",
-    "runtime-main.js.map": "/static/js/runtime-main.879e8398.js.map",
-    "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
-    "static/js/2.41945a97.chunk.js": "/static/js/2.41945a97.chunk.js",
-    "static/js/2.41945a97.chunk.js.map": "/static/js/2.41945a97.chunk.js.map",
+    "main.css": "/static/css/main.1cd3885e.chunk.css",
+    "main.js": "/static/js/main.ba1f6b3a.chunk.js",
+    "main.js.map": "/static/js/main.ba1f6b3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.71f4868b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.71f4868b.js.map",
+    "static/css/2.165ff965.chunk.css": "/static/css/2.165ff965.chunk.css",
+    "static/js/2.627471f7.chunk.js": "/static/js/2.627471f7.chunk.js",
+    "static/js/2.627471f7.chunk.js.map": "/static/js/2.627471f7.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
-    "static/css/main.a2a66f35.chunk.css.map": "/static/css/main.a2a66f35.chunk.css.map",
-    "static/js/2.41945a97.chunk.js.LICENSE.txt": "/static/js/2.41945a97.chunk.js.LICENSE.txt",
+    "static/css/2.165ff965.chunk.css.map": "/static/css/2.165ff965.chunk.css.map",
+    "static/css/main.1cd3885e.chunk.css.map": "/static/css/main.1cd3885e.chunk.css.map",
+    "static/js/2.627471f7.chunk.js.LICENSE.txt": "/static/js/2.627471f7.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Roboto-Regular.a8d6ac03.ttf",
     "static/media/avatar.8d771c6f.svg": "/static/media/avatar.8d771c6f.svg",
     "static/media/bravo.a92fc645.png": "/static/media/bravo.a92fc645.png",
     "static/media/citygreen.a5931bce.png": "/static/media/citygreen.a5931bce.png",
     "static/media/contato.b0df34ae.png": "/static/media/contato.b0df34ae.png",
-    "static/media/curriculo-renan-lima-eng.f0cdc3fa.docx": "/static/media/curriculo-renan-lima-eng.f0cdc3fa.docx",
-    "static/media/curriculo-renan-lima.52e8cce2.docx": "/static/media/curriculo-renan-lima.52e8cce2.docx",
+    "static/media/curriculo-renan-lima-eng.477a5a07.docx": "/static/media/curriculo-renan-lima-eng.477a5a07.docx",
+    "static/media/curriculo-renan-lima.faae730f.docx": "/static/media/curriculo-renan-lima.faae730f.docx",
     "static/media/dozeroaosenior.6e60a24c.png": "/static/media/dozeroaosenior.6e60a24c.png",
     "static/media/grupo-era.e1859656.png": "/static/media/grupo-era.e1859656.png",
     "static/media/jdr.1fbe021a.png": "/static/media/jdr.1fbe021a.png",
@@ -33,10 +33,10 @@
     "static/media/zarpo.915b5825.png": "/static/media/zarpo.915b5825.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.879e8398.js",
-    "static/css/2.19627560.chunk.css",
-    "static/js/2.41945a97.chunk.js",
-    "static/css/main.a2a66f35.chunk.css",
-    "static/js/main.fd535eb9.chunk.js"
+    "static/js/runtime-main.71f4868b.js",
+    "static/css/2.165ff965.chunk.css",
+    "static/js/2.627471f7.chunk.js",
+    "static/css/main.1cd3885e.chunk.css",
+    "static/js/main.ba1f6b3a.chunk.js"
   ]
 }
